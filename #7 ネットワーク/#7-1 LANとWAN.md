@@ -15,3 +15,5 @@ LANは小規模ネットワーク
 
 # FTTH(Fiber To The Home)
 よく出題されるWANの代表的なサービス
+
+復習1
